@@ -6,8 +6,8 @@ Espero que os ayude un poco
 Usarlo para consultar
 
 
-Las barras de divivion entre los "bloques" del layout, mejor hacedlas con un view,
-tal y como sale en los apuntes. que la forma que uśe yo es bastante rebuscada.
+Las barras de división entre los "bloques" del layout, mejor hacerlas con un view,
+tal y como sale en los apuntes. que la forma que usé yo es bastante rebuscada.
 
     <LinearLayout
         android:orientation="vertical"
@@ -25,6 +25,6 @@ en el layout:divider hay que meter un archivo que vamos a crear en la carpeta dr
 
 
 
-Si quereis colaborar, crearos una cuenta de github y avisadme
+Si queréis colaborar, crearos una cuenta de github y avisadme
 
 Suerte
