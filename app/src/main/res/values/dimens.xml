@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="cero">0dip</dimen>
+    <dimen name="divider_dim">2dip</dimen>
+    <dimen name="chronometer">20dip</dimen>
+    <dimen name="border_edit">1dip</dimen>
+</resources>

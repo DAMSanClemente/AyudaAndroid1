@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="provincias">
+        <item>@string/arrprov_coru</item>
+        <item>@string/arrprov_lugo</item>
+        <item>@string/arrprov_pont</item>
+        <item>@string/arrprov_oren</item>
+        <item>@string/arrprov_leon</item>
+    </string-array>
+</resources>

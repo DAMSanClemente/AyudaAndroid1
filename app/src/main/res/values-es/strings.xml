@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">U2_A_a14felipecm</string>
+    <string name="action_settings">Configuración</string>
+    <string name="text_clear"> Limpiar</string>
+    <string name="text_button"> Añadir / Limpiar</string>
+    <string name="text_label"> Aquí verás el texto que has escrito</string>
+    <string name="text_hint"> Escribe algún texto y presiona el botón</string>
+    <string name="text_red"> Rojo</string>
+    <string name="text_blue"> Azul</string>
+    <string name="text_start"> Iniciar</string>
+    <string name="text_stop"> Parar</string>
+    <string name="text_image"> Calle, Rúa Nova - Santiago de Compostela</string>
+    <string name="text_toast_gal"> Has seleccionado una provincia gallega</string>
+    <string name="text_toast_no_gal"> No has seleccionado una provincia gallega</string>
+
+    <!--Strings para el array de provincias-->
+    <string name="arrprov_coru">La Coruña</string>
+    <string name="arrprov_lugo">Lugo</string>
+    <string name="arrprov_pont">Pontevedra</string>
+    <string name="arrprov_oren">Orense</string>
+    <string name="arrprov_leon">León</string>
+
+
+</resources>
