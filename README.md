@@ -16,7 +16,12 @@ tal y como sale en los apuntes. que la forma que uśe yo es bastante rebuscada.
         android:divider="@drawable/divider"
         android:showDividers="end">
         
-quitad el android:divider y el android:showdivider
+en el layout:divider hay que meter un archivo que vamos a crear en la carpeta drawable: divider.xml
+
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+             <size android:height="@dimen/divider_dim"/>
+              <solid android:color="@color/negro"/>
+        </shape>
 
 
 
