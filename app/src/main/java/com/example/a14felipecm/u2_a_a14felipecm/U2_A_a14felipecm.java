@@ -58,6 +58,10 @@ public class U2_A_a14felipecm extends Activity {
             }
         });
 
+        /*
+         *Listener para el spinner de provincias, con un adapterview cogemos el string de la posicion
+         * seleccionada. y lo comparamos "en este caso", con el string de la provincia Leon
+         */
         spinnerProvincias.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int pos, long id) {
