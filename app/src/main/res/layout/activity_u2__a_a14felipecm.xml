@@ -65,7 +65,7 @@
                 android:onClick="cambiarCorTexto"
                  />
 
-            <RadioButtonappend
+            <RadioButton
                 android:layout_width="@dimen/cero"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"

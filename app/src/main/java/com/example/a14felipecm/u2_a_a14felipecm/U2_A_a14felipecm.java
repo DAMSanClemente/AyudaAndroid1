@@ -96,6 +96,7 @@ public class U2_A_a14felipecm extends Activity {
     public void engadirClick(View v){
         if(checkClear.isChecked()){
             textoSalida.setText("");
+            textoEntrada.setText("");
         }else{
             textoSalida.append(" "+textoEntrada.getText());
             textoEntrada.setText("");
